@@ -52,8 +52,6 @@ Make sure your webcam is connected and properly configured. Use hand gestures to
 Contributions are welcome! Please fork this repository and submit pull requests for any features, bug fixes, or enhancements.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-
-This README includes the installation instructions for `cvzone` and provides a comprehensive guide on how to set up and use the project.
 
