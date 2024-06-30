@@ -1,0 +1,12 @@
+/*These are the packages required before you start coding.
+opencv-python (cv2) - For video capture and image processing.
+cvzone - For hand detection and gesture recognition.
+ctypes - For simulating key presses.
+time - For introducing delays in the script.
+Run these commands in your terminal to install them.*/
+python.exe -m pip install --upgrade pip//make sure you're using the latest version of pip
+pip install cvzone
+pip install ctypes
+pip install time
+
+
