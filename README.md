@@ -30,3 +30,4 @@ To get started, clone the repository and install the required dependencies.
 git clone https://github.com/mahathi257/gesture-controlled-dino-game.git
 cd gesture-controlled-dino-game
 pip install -r requirements.txt
+
